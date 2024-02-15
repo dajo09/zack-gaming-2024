@@ -9,3 +9,6 @@ As part of our TESDA SIL/OJT, we were required to build a gaming event website.
 ### Footer
 <img width="1235" alt="footer" src="https://github.com/dajo09/zack-gaming-2024/assets/33592524/f508dbbe-df1d-48d4-8b01-e2a73bded3b5">
 
+### [ADD TO CALENDAR button](https://www.addevent.com/event/sV20223904)
+<img width="1231" alt="addevent" src="https://github.com/dajo09/zack-gaming-2024/assets/33592524/a9a1d15b-bea7-4c51-bd44-1e9f48832e34">
+
