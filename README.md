@@ -20,3 +20,14 @@ I, along with 4 other TESDA Scholars collaborated on this project, using the fre
 ### About Us
 <img width="1220" alt="about us" src="https://github.com/dajo09/zack-gaming-2024/assets/33592524/6d36b269-0f36-42e0-89a4-b1c9881126e7">
 
+### Meet The Team
+<img width="1217" alt="team" src="https://github.com/dajo09/zack-gaming-2024/assets/33592524/5afa9220-1054-49f1-a7de-2c61ac44ac04">
+
+### Clients
+<img width="1219" alt="clients" src="https://github.com/dajo09/zack-gaming-2024/assets/33592524/b9e4ef19-9518-4daa-ab93-3493c8db2779">
+
+Collaborators
+Wendell Centeno
+John Adam Ramos
+Henessy Hernaez
+Clarisse Joy Sevilla
