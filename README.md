@@ -26,6 +26,8 @@ I, along with 4 other TESDA Scholars collaborated on this project, using the fre
 ### Clients
 <img width="1219" alt="clients" src="https://github.com/dajo09/zack-gaming-2024/assets/33592524/b9e4ef19-9518-4daa-ab93-3493c8db2779">
 
+
+
 [Canva Presentation](https://canva.com/design/DAF8r9I0dqQ/6C1SZXR5hNOFa4h4Y1uBfw/edit)
 
 Collaborators:
