@@ -8,6 +8,12 @@ I, along with 4 other TESDA Scholars collaborated on this project, using the fre
 ### Homepage
 <img width="1231" alt="homepage" src="https://github.com/dajo09/zack-gaming-2024/assets/33592524/01017b24-224d-40c7-80c9-3461106354eb">
 
+### LogIn
+<img width="1233" alt="login" src="https://github.com/dajo09/zack-gaming-2024/assets/33592524/adadf8d4-d861-447b-baeb-13037cacb995">
+
+### SignUp
+<img width="1232" alt="signup" src="https://github.com/dajo09/zack-gaming-2024/assets/33592524/7783b11e-9fc0-4098-8c99-a09ba652cacb">
+
 ### Footer
 <img width="1235" alt="footer" src="https://github.com/dajo09/zack-gaming-2024/assets/33592524/f508dbbe-df1d-48d4-8b01-e2a73bded3b5">
 
@@ -31,6 +37,6 @@ I, along with 4 other TESDA Scholars collaborated on this project, using the fre
 
 Collaborators:
 - Wendell Centeno
-- John Adam Ramos
 - Henessy Hernaez
+- John Adam Ramos
 - Clarisse Joy Sevilla
