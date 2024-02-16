@@ -12,7 +12,7 @@ I, along with 4 other TESDA Scholars collaborated on this project, using the fre
 <img width="1233" alt="login" src="https://github.com/dajo09/zack-gaming-2024/assets/33592524/adadf8d4-d861-447b-baeb-13037cacb995">
 
 ### SignUp
-<img width="1232" alt="signup" src="https://github.com/dajo09/zack-gaming-2024/assets/33592524/7783b11e-9fc0-4098-8c99-a09ba652cacb">
+<img width="1232" alt="signup" src="https://github.com/dajo09/zack-gaming-2024/assets/33592524/5a4141ed-9c10-4f28-ac57-6dbb67f097ba">
 
 ### Footer
 <img width="1235" alt="footer" src="https://github.com/dajo09/zack-gaming-2024/assets/33592524/f508dbbe-df1d-48d4-8b01-e2a73bded3b5">
